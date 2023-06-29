@@ -1,0 +1,1 @@
+import{_ as c,o,c as a,p as d,g as t,a as s}from"./index-2f2a539d.js";const _={},n=e=>(d("data-v-975537f1"),e=e(),t(),e),i=n(()=>s("div",{class:"breadcumbs"},[s("div",{class:"home"},"Home"),s("div",{class:"titulo"},"Indicadores")],-1)),r=[i];function l(e,p){return o(),a("div",null,r)}const f=c(_,[["render",l],["__scopeId","data-v-975537f1"]]);export{f as default};
