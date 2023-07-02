@@ -1,7 +1,0 @@
-<svg id="Icone_papel_70x70" data-name="Icone papel 70x70" xmlns="http://www.w3.org/2000/svg" width="70" height="70" viewBox="0 0 70 70">
-  <rect id="Retângulo" width="70" height="70" fill="none"/>
-  <g id="Papel" transform="translate(6.5)">
-    <path id="Subtração" d="M0,0H47.5V62.911H0Z" transform="matrix(0.996, 0.087, -0.087, 0.996, 7.968, 0)" fill="#444" opacity="0.26"/>
-    <path id="Subtração-2" data-name="Subtração" d="M47.5,62.911v0H0V0H47.5V62.911ZM6.419,48.789v3.847H41.087V48.789Zm0-7.708v3.854H41.087V41.081Zm0-7.7v3.852H41.087V33.38Zm0-7.7v3.854H41.087V25.677Zm0-7.7v3.849H41.087V17.974Zm0-7.708v3.856H41.087V10.266Z" transform="translate(0 7.089)" fill="#fff"/>
-  </g>
-</svg>
