@@ -1,1 +1,0 @@
-import{D as o}from"./DocumentosLegais-fee11219.js";import{o as t,m as e}from"./index-ce5b56b8.js";import"./EmptyState-e0559b11.js";/* empty css                                                    */import"./VisualizarArquivoVml-2e306b60.js";const _={__name:"DocumentosLegaisPublic",setup(r){return(m,s)=>(t(),e(o))}};export{_ as default};
